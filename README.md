@@ -12,4 +12,6 @@ This project aims to leverage APIs and web scraping to gather valuable data from
 This project aims to conduct EDA and ML using Python and packages such as sklearn, statsmodel, and seaborn. This personal project allows me to recap my knowledge and experience in the subject matter.
 
 ### Current Notebooks
-1. JPMorgan Quantitative Research virtual experience tasks - Conducted simple EDA and Linear Regression to predict natural gas price and price natural gas contracts. Conducted credit risk analysis using Logistics Regression to predict defaulting cases.  
+1. JPMorgan Quantitative Research virtual experience tasks - Conducted simple EDA and Linear Regression to predict natural gas price and price natural gas contracts. Conducted credit risk analysis using Logistics Regression to predict defaulting cases.
+
+2. [Simple Momentum Strategy](https://colab.research.google.com/drive/1UBhh5HFEldjxSVpQNlH7EsPVoaSOc4RR?usp=sharing) - A simple momentum strategy by buying the top n performing stocks in the S&P 500 universe based on the past x month and hold for 1 month. At the end of each month close off the existing position and repeat the strategy. The strategy was backtested and evaluated its performance with different parameters 'n' and 'x', and against a buy and hold strategy on the SPY Index.
